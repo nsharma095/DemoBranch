@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ContactTriggerHandler</members>
+        <members>ContactTriggerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>ContactTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Account.Has_Customer__c</members>
+        <members>Contact.Contact_Type__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>58.0</version>
+</Package>
